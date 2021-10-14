@@ -1,0 +1,6 @@
+domov:Domov
+spravy:Správy
+galeria:Fotogaléria
+onas:O nás
+forum:Forum
+kontakt:Kontakt
